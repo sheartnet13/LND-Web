@@ -125,7 +125,7 @@ Puedes publicar este proyecto en un entorno en línea de forma gratuita utilizan
 3. Selecciona la rama `main` y la carpeta raíz `/ (root)`.
 4. Guarda los cambios y obtendrás una URL como:
    ```
-   https://usuario.github.io/star-citizen-web/
+   https://github.com/sheartnet13/LND-Web
    ```
 
 ---
