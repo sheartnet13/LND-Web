@@ -38,35 +38,35 @@ Sigue estos pasos para ejecutar el proyecto en tu entorno local:
 
 3. Verifica que la estructura de archivos sea la siguiente:
    ```
-Project Css/
-│
-├── index.html             # Página principal HTML
-├── README.md              # Esta documentación
-│
-├── css/                   # Estilos
-│   └── styles.css 
-│
-├── font/                  # Fuentes locales
-│   ├── Rajdhani-Light.ttf
-│   ├── Rajdhani-Regular.ttf
-│   ├── Rajdhani-Medium.ttf
-│   ├── Rajdhani-SemiBold.ttf
-│   ├── Rajdhani-Bold.ttf
-│   ├── orbitron-light.otf
-│   ├── orbitron-medium.otf
-│   ├── orbitron-bold.otf
-│   └── orbitron-black.otf
-│
-├── js/                    # Javascript
-│   └── script.js
-│
-└── gallery/               # Imágenes del proyecto
-    ├── RSI-Header.png    
-    ├── RSI-Footer.png
-    ├── StarCitizen.png
-    ├── Squadron42.png
-    ├── Title.jpg          
-    └── [10 imágenes de galería]
+   Project Css/
+   │
+   ├── index.html             # Página principal HTML
+   ├── README.md              # Esta documentación
+   │
+   ├── css/                   # Estilos
+   │   └── styles.css 
+   │
+   ├── font/                  # Fuentes locales
+   │   ├── Rajdhani-Light.ttf
+   │   ├── Rajdhani-Regular.ttf
+   │   ├── Rajdhani-Medium.ttf
+   │   ├── Rajdhani-SemiBold.ttf
+   │   ├── Rajdhani-Bold.ttf
+   │   ├── orbitron-light.otf
+   │   ├── orbitron-medium.otf
+   │   ├── orbitron-bold.otf
+   │   └── orbitron-black.otf
+   │
+   ├── js/                    # Javascript
+   │   └── script.js
+   │
+   └── gallery/               # Imágenes del proyecto
+       ├── RSI-Header.png    
+       ├── RSI-Footer.png
+       ├── StarCitizen.png
+       ├── Squadron42.png
+       ├── Title.jpg          
+       └── [10 imágenes de galería]
    ```
 
 4. Abre el archivo `index.html` directamente en tu navegador o utiliza **Live Server**.
