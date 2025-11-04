@@ -67,7 +67,7 @@ Project Css/
     ├── Squadron42.png
     ├── Title.jpg          
     └── [10 imágenes de galería]
-```
+   ```
 
 4. Abre el archivo `index.html` directamente en tu navegador o utiliza **Live Server**.
 
@@ -79,7 +79,7 @@ El proyecto puede validarse y comprobarse utilizando las herramientas oficiales 
 
 ---
 
-### Pruebas de HTML
+Pruebas de HTML
 
 1. Abre el validador en línea: [https://validator.w3.org/](https://validator.w3.org/)
 2. Carga el archivo `index.html` o pega su contenido.
@@ -91,7 +91,7 @@ El proyecto puede validarse y comprobarse utilizando las herramientas oficiales 
 
 ---
 
-### Pruebas de CSS
+Pruebas de CSS
 
 1. Accede al validador de estilos: [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)
 2. Sube tu archivo `styles.css` o introduce su URL.
@@ -99,7 +99,7 @@ El proyecto puede validarse y comprobarse utilizando las herramientas oficiales 
 
 ---
 
-### Pruebas de estilo
+Pruebas de estilo
 
 Estas pruebas verifican la correcta estructura y buenas prácticas del proyecto:
 
@@ -110,7 +110,7 @@ Estas pruebas verifican la correcta estructura y buenas prácticas del proyecto:
 
 ---
 
-## Despliegue
+Despliegue
 
 Puedes publicar este proyecto en un entorno en línea de forma gratuita utilizando servicios como:
 
@@ -118,19 +118,19 @@ Puedes publicar este proyecto en un entorno en línea de forma gratuita utilizan
 - **Netlify**
 - **Vercel**
 
-### Ejemplo con GitHub Pages:
+Ejemplo con GitHub Pages:
 
 1. Sube el proyecto a un repositorio público.
 2. En GitHub, ve a **Settings → Pages**.
 3. Selecciona la rama `main` y la carpeta raíz `/ (root)`.
 4. Guarda los cambios y obtendrás una URL como:
    ```
-   https://github.com/sheartnet13/LND-Web
+   https://usuario.github.io/star-citizen-web/
    ```
 
 ---
 
-## Construido con
+Construido con
 
 - **HTML5**, **CSS3** y **JavaScript**
 - [Contributor Covenant](https://www.contributor-covenant.org/) — utilizado como base para el código de conducta.
@@ -138,7 +138,7 @@ Puedes publicar este proyecto en un entorno en línea de forma gratuita utilizan
 
 ---
 
-## Contribuir
+Contribuir
 
 Si deseas colaborar en este proyecto:
 
@@ -187,4 +187,6 @@ Consulta el archivo `LICENSE.md` para más detalles.
 - A [W3Schools](https://www.w3schools.com/) por su extensa documentación y ejemplos educativos.  
 - A toda la comunidad que contribuye al desarrollo de proyectos web educativos y abiertos.
 
----
+
+
+
